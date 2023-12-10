@@ -734,6 +734,7 @@ Figure 2 shows the project schedule, including all proposed Work
 Packages, meetings, deliverables, and progress reports.
 
 Figure 2: Project Schedule
+![image](https://github.com/destination-earth/DestinE_ESA_DESIDE/assets/71015146/03999c83-e2eb-4e30-acc8-1440ee5caf23)
 
 <img src="media/image2.emf" style="width:9.07518in;height:4.58211in" />
 
