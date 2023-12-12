@@ -59,4 +59,4 @@ It contains the following sections:
 - Deliverables
 
 This is a living document and will be updated continuously and presented
-at each milestone (see Section 4.1).
+at each milestone (see <<Milestones>>).
