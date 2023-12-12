@@ -8,10 +8,10 @@ This document represents the Software Release Plan (SRP) for the {project-name} 
 == Structure of the Document
 :xrefstyle: full
 
-Section 2 - <<mainOverview>>::
+<<mainOverview>>::
 This section provides an overview of the {project-name}.
 
-Section 3 - <<ReleasePlan>>::
+<<ReleasePlan>>::
 This section provides the actual Release Plan.
 
 include::03.reference-docs.adoc[leveloffset=+1]

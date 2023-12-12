@@ -8,16 +8,16 @@ This document represents the Project Management Plan (PMP) for the {project-name
 == Structure of the Document
 :xrefstyle: full
 
-Section 2 - <<mainOverview>>::
+<<mainOverview>>::
 This section provides an overview of the {project-name}.
 
-Section 3 - <<WorkDescription>>
+<<WorkDescription>>
 
-Section 4 - <<TeamOrganization>>
+<<TeamOrganization>>
 
-Section 5 - <<Schedule>>
+<<Schedule>>
 
-Section 6 - <<Deliverables>>
+<<Deliverables>>
 
 include::03.reference-docs.adoc[leveloffset=+1]
 

@@ -9,10 +9,10 @@ new commits are performed to ensure the software is still functioning as expecte
 
 == Structure of the Document
 
-Section 2 - <<mainOverview>>::
+<<mainOverview>>::
 This section provides an overview of the {project-name}.
 
-Section 3 - <<mainVerification>>::
+<<mainVerification>>::
 This section provides the software verification and validation plans, activities, resources, acceptance criteria, schedule and change control.
 
 include::03.reference-docs.adoc[leveloffset=+1]

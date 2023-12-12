@@ -8,7 +8,7 @@ This document represents the <TBD> (<TBD>) for the {project-name} project 8482 w
 == Structure of the Document
 :xrefstyle: full
 
-Section 2 - <<mainOverview>>::
+<<mainOverview>>::
 This section provides an overview of the {project-name}.
 
 include::03.reference-docs.adoc[leveloffset=+1]

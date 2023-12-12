@@ -10,10 +10,10 @@ This document describes the functional and non functional requirements applicabl
 == Structure of the Document
 :xrefstyle: full
 
-Section 2 - <<mainOverview>>::
+<<mainOverview>>::
 This section provides an overview of the {project-name}.
 
-Section 3 - <<mainRequirements>>::
+<<mainRequirements>>::
 This section provides the software requirements for the {project} {component-name}
 
 include::03.reference-docs.adoc[leveloffset=+1]
