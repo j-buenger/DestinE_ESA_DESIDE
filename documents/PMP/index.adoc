@@ -7,7 +7,7 @@
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Project Management Plan
-:doc-num: D-XXX
+:doc-num: D5.1
 :revnumber: 1.0
 :revdate: 12/12/2023
 // :revremark:
