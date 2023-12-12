@@ -1,0 +1,13 @@
+= Verification schedule
+
+The software verification activities will be conducted in a flexible manner that accommodates the dynamic nature of the development process. While there is no fixed schedule for the verification activities, the following approach is adopted:
+
+1. Iterative verification: The verification process is integrated into the development iterations or cycles. As each component or feature reaches a stable state, verification activities are performed to ensure its functionality, performance, and compliance.
+
+2. Continuous Integration: The verification activities are integrated into the continuous integration and delivery (CI/CD) pipeline. Automated tests are triggered upon code changes, ensuring that the software system is continuously verified as new features or updates are introduced.
+
+3. Trigger-Based verification: verification activities may be triggered by specific events, such as significant changes in the software system, updates to dependencies, or critical bug fixes. These triggers initiate a focused verification effort to ensure the stability and reliability of the affected areas.
+
+4. verification on Demand: verification activities may be requested by stakeholders, such as project managers, clients, or regulatory bodies. These requests are addressed promptly, and verification efforts are planned and executed accordingly.
+
+The absence of a fixed schedule allows for a flexible and adaptable approach to software verification, enabling the verification activities to align with the evolving nature of the software development process. The verification plan is continuously updated to incorporate any changes or adjustments to the verification timeline.

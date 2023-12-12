@@ -1,0 +1,23 @@
+[[mainRequirements]]
+= Software Requirements Specification
+
+This chapter lists the software requirements with a requirements matrix and references to documents.
+
+[cols="1,1,1,2,6,1"]
+|===
+| Doc | Reference | Section | Title | Short Description | Compliance
+
+|SOW
+|TBD
+|TBD
+|TBD
+|TBD
+|C/N/P
+
+|SOW
+|TBD
+|TBD
+|TBD
+|TBD
+|C/N/P
+|===

@@ -1,0 +1,34 @@
+= Verification change control
+
+Change control procedures are implemented to manage any changes to the software system during the verification process. This ensures that changes are properly evaluated, documented, and approved to maintain the integrity of the verification effort. The following steps outline the change control process:
+
+Change Identification:
+
+- Any proposed change to the software system is identified and documented.
+- Changes can include modifications to requirements, design, code, or any other aspect of the system that may impact verification.
+
+Change Impact Assessment:
+
+- The impact of the proposed change on the verification effort is assessed.
+- The verification team evaluates the potential effects of the change on test plans, test cases, test data, verification schedule, and other relevant aspects.
+- The assessment considers the potential risks and benefits of implementing the change.
+
+Change Approval:
+
+- The proposed change is reviewed and approved by the designated change control authority.
+- The approval decision is based on the impact assessment, project priorities, and alignment with the overall project goals.
+- The change control authority may consist of project managers, stakeholders, or a designated change control board.
+
+Change Implementation:
+
+- Once the change is approved, it is implemented according to the established procedures.
+- The necessary modifications are made to the affected artifacts, such as test plans, test cases, or verification documentation.
+- The verification team ensures that the necessary updates are communicated to all relevant stakeholders.
+
+verification Impact Review:
+
+- After implementing the change, the verification team reviews the impact of the change on the verification activities.
+- Test plans, test cases, or any other affected verification artifacts are updated to reflect the changes.
+- The verification team verifies that the implemented change does not adversely affect the overall verification process or compromise the quality of the software system.
+
+Effective change control procedures help maintain the integrity and reliability of the verification effort by ensuring that any changes to the software system are properly evaluated, documented, and incorporated into the verification process. These procedures help minimize risks associated with changes and ensure that the verification remains aligned with the project goals.

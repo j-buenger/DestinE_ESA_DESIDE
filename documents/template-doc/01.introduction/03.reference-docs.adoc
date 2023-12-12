@@ -1,0 +1,20 @@
+
+= Reference Documents
+
+The following is a list of Applicable and Reference Documents with a direct bearing on the content of this document.
+
+[cols="2,7a,2a"]
+|===
+| Reference | Document Details | Version
+
+| [SOW]
+| Statement of Work Destination Earth DESP Use Cases selection - Round 1 +
+Reference: CS301353.Docref.0002
+| 1.0
+
+| [Proposal]
+| Proposal No. 8482: DestinE Sea Ice Decision Enhancement (DESIDE)
+| 1.1 +
+06/06/2023
+
+|===

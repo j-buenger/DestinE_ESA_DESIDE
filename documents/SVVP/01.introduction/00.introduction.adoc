@@ -1,0 +1,22 @@
+
+= Introduction
+
+== Purpose and Scope
+
+This document represents the Software Verification and Validation Plan (SVVP) for the {component-name} project.
+This document describes generic regression/unit tests that are run on the software when
+new commits are performed to ensure the software is still functioning as expected.
+
+== Structure of the Document
+
+Section 2 - <<mainOverview>>::
+This section provides an overview of the {component-name}
+
+Section 3 - <<mainVerification>>::
+This section provides the software verification and validation plans, activities, resources, acceptance criteria, schedule and change control.
+
+include::03.reference-docs.adoc[leveloffset=+1]
+
+include::04.terminology.adoc[leveloffset=+1]
+
+include::05.glossary.adoc[leveloffset=+1]

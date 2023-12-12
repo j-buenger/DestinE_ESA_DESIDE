@@ -1,0 +1,6 @@
+= Verification activities
+
+This section outlines the verification activities for key DESIDE components.
+
+== TBD
+

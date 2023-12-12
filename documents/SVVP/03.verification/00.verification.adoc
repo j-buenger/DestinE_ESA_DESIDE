@@ -1,0 +1,31 @@
+[[mainVerification]]
+= Verification
+
+The verification approach for the DESIDE system consists of a combination of unit testing, integration testing, and system testing.
+
+Unit Testing: Each component of the data pipeline undergoes thorough unit testing. Unit tests are designed to verify the individual functionality of each component in isolation. The unit tests ensure that the components perform as expected and adhere to the defined requirements.
+
+Integration Testing: Integration testing is conducted to verify the interactions and compatibility between the components of the data pipeline. Integration tests are executed to ensure proper data flow and integration points between the components. These tests focus on verifying the overall functionality and communication of the integrated components.
+
+Server Testing: The server responsible for data sharing is subjected to a comprehensive set of tests. These tests cover various aspects, including data input/output verification, data storage and retrieval, error handling, and performance under different load conditions. The server tests are designed to ensure the reliability, stability, and efficiency of the data sharing functionality.
+
+System Testing: The main repository, which contains the deployment and bundling system, is verified through system testing. System tests are designed to evaluate the end-to-end functionality and behavior of the software system as a whole. These tests cover various scenarios and use cases to ensure that the system operates as intended and meets the specified requirements.
+
+To facilitate the testing process, the `pytest` framework has been selected as the primary testing tool. `pytest` offers ease of use, is widely adopted within the industry, and provides comprehensive documentation. Its rich set of features enables efficient test development, execution, and result analysis.
+
+The rationale behind this approach is to ensure that each component of the software system is thoroughly verified in isolation, as well as in conjunction with other components to verify their integration. By adopting a combination of unit testing, integration testing, and system testing, we aim to identify and address any issues early in the development cycle, ensuring the delivery of a high-quality and reliable software system.
+
+
+include::01.activities.adoc[leveloffset=+1]
+
+include::02.criteria.adoc[leveloffset=+1]
+
+include::03.resources.adoc[leveloffset=+1]
+
+include::04.change.adoc[leveloffset=+1]
+
+include::05.schedule.adoc[leveloffset=+1]
+
+include::06.code.adoc[leveloffset=+1]
+
+include::07.performance.adoc[leveloffset=+1]

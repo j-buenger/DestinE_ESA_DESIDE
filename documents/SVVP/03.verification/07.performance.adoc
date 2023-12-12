@@ -1,0 +1,31 @@
+= Performance verification
+
+In addition to functional testing, performance testing is an integral part of the software verification process. Performance testing aims to assess the software system's response time, scalability, and stability under various load conditions. Locust, an open-source performance testing tool, is utilized to conduct performance testing. The following points outline the approach for performance testing using Locust:
+
+1. Test Scenarios and Workloads: Test scenarios are defined to simulate realistic user behavior and workload patterns. These scenarios mimic different types of user interactions, such as browsing, searching, and data processing, to represent real-world usage patterns. Workloads are designed to reflect expected user loads, including the number of concurrent users, requests per second, and data volumes.
+
+2. Load Generation with Locust: Locust is used to generate virtual user load and simulate concurrent user interactions. With Locust, we can create test scripts using Python to define user behaviors, request patterns, and response verifications. The tool allows us to distribute the load across multiple machines to simulate high traffic conditions.
+
+3. Metrics and Monitoring: During performance testing, various metrics are collected, such as response times, throughput, error rates, and resource utilization. Additionally, server-side monitoring tools may be utilized to capture system-level metrics, including CPU usage, memory consumption, and network activity. These metrics provide insights into the performance characteristics of the software system under different load conditions.
+
+4. Analysis and Tuning: The performance test results are analyzed to identify any bottlenecks, performance degradation, or scalability issues. Based on the analysis, necessary optimizations and tuning activities are performed to improve the software system's performance. This may involve adjusting configuration parameters, optimizing database queries, or enhancing system architecture.
+
+5. Verification Thresholds: verification thresholds for performance testing are established based on defined performance objectives and requirements. These thresholds define the acceptable performance levels for key metrics, such as response time, throughput, or error rates. The performance test results are compared against these thresholds to determine if the software system meets the performance expectations.
+
+Proposed scenarios:
+
+Cache tests:
+
+* test wms using (1 workers, 100 users, 100 hatch rate)
+* test wmts using (1 workers, 100 users, 100 hatch rate)
+
+Renderer tests:
+
+* WMS 10 users + 10 hatch rate
+* WMS 50 users + 50 hatch rate
+* WMS 100 users + 100 hatch rate
+* WCS 10 users + 10 hatch rate
+* WCS 50 users + 50 hatch rate
+* WCS 100 users + 100 hatch rate
+
+By leveraging Locust for performance testing, we aim to evaluate the software system's performance under realistic load conditions and identify any performance-related issues. The insights gained from performance testing guide optimization efforts and ensure that the software system performs optimally and meets the defined performance criteria.

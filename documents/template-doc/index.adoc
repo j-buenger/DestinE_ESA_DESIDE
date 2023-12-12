@@ -1,0 +1,54 @@
+:doctype: book
+:author: EOX Team
+:email: <office@eox.at>
+:project: DESIDE
+:project-name: {project}
+:component-name: DESIDE
+:component-github-name: https://github.com/EOX-A/DESIDE
+:component-github-pages: https://eox-a.github.io/DESIDE
+:doc-title: <TBD>
+:doc-num: D-XXX
+:revnumber: 0.1
+:revdate: 11/12/2023
+// :revremark:
+:category:
+:copyrightYear: 2023
+// attributes
+:sectnums:
+:sectnumlevels: 5
+:toc: left
+:toclevels: 5
+:toc-title: {project} - {doc-title}
+:description:
+:keywords:
+:imagesdir: ./images
+:linkcss:
+:stylesdir: stylesheets
+:stylesheet: custom.css
+:icons: font
+:source-highlighter: coderay
+// pdf
+:pdf-stylesdir: resources/themes
+:pdf-style: custom
+:media: screen
+:title-logo-image: image::DESIDE.png[top=5%, align=right]
+
+= {doc-title}: {doc-num}
+
+:leveloffset: +1
+
+include::preface.adoc[]
+
+<<<
+
+include::01.introduction/00.introduction.adoc[]
+
+<<<
+
+include::02.overview/00.overview.adoc[]
+
+'''
+
+include::end-of-document.adoc[]
+
+:leveloffset: -1

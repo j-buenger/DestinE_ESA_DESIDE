@@ -1,0 +1,55 @@
+
+= Terminology
+
+The following terms have been used in this document.
+
+[cols="1,3"]
+|===
+| Term | Meaning
+
+| Admin
+| User with administrative capabilities on a platform.
+
+| Code
+| The codification of an algorithm performed with a given programming language - compiled to Software or directly executed (interpreted) within the platform.
+
+| Discovery
+| User finds products/services of interest to them based upon search criteria.
+
+| Interactive Web Application
+| An Interactive Application for analysis provided as a rich user interface through the user's web browser.
+
+| Key-Value Pair
+| A key-value pair (KVP) is an abstract data type that includes a group of key identifiers and a set of associated values. Key-value pairs are frequently used in lookup tables, hash tables and configuration files.
+
+| Object Store
+| A computer data storage architecture that manages data as objects. Each object typically includes the data itself, a variable amount of metadata, and a globally unique identifier.
+
+| Products
+| EO data (commercial and non-commercial) and Value-added products.
+
+| Software
+| The compilation of code into a binary program to be executed within the platform on-line computing environment.
+
+| User
+| An individual using the services.
+
+| Visualization
+| To obtain a visual representation of any data/products held within the platform - presented to the user within their web browser session.
+
+| Web Coverage Service (WCS)
+| OGC standard that provides an open specification for sharing raster datasets on the web.
+
+| Web Feature Service (WFS)
+| OGC standard that makes geographic feature data (vector geospatial datasets) available on the web.
+
+| Web Map Service (WMS)
+| OGC standard that provides a simple HTTP interface for requesting geo-registered map images from one or more distributed geospatial databases.
+
+| Web Map Tile Service (WMTS)
+| OGC standard that provides a simple HTTP interface for requesting map tiles of spatially referenced data using the images with predefined content, extent, and resolution.
+
+| Web Processing Services (WPS)
+| OGC standard that defines how a client can request the execution of a process, and how the output from the process is handled.
+
+|===

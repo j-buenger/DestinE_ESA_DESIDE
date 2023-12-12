@@ -1,0 +1,22 @@
+= Verification resources
+
+This section outlines the resources which are utilized for conducting of the verification activities.
+
+The main resources are:
+
+1. GitLab Runner
+2. GitHub Actions
+
+These resources offer the necessary infrastructure and automation capabilities to execute the verification activities effectively. The use of a self-hosted GitLab Runner and GitHub Actions ensures reliable and controlled environments for conducting the tests and analyzing the results.
+
+== GitLab Runner
+
+The ETL components and system testing utilize a self-hosted GitLab Runner for test execution.
+The self-hosted GitLab Runner provides a dedicated environment for running tests and ensures consistent and controlled testing conditions.
+The configuration and management of the GitLab Runner are handled internally by the project team.
+
+== GitHub Actions
+
+Some testing activities make use of GitHub Actions for test execution.
+GitHub Actions provide an automated workflow and testing environment for running tests on the server.
+The GitHub Actions workflow is configured and maintained within the project's GitHub repository.

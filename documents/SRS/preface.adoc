@@ -1,0 +1,22 @@
+
+{project-name}
+_{doc-title}_
+{doc-num}
+
+[cols="^1,^1"]
+|===
+| *COMMENTS and ISSUES* +
+If you would like to raise comments or issues on this document, send an email to {email}.
+| *PDF* 
+This document is available in PDF format link:{component-github-pages}/index.html[here^].
+| *EUROPEAN SPACE AGENCY CONTRACT REPORT* +
+The work described in this report was done under ESA contract. Responsibility for the
+contents resides in the author or organization that prepared it.
+| *EOX IT Services GmbH* +
+Thurngasse 8/4, 1090 Vienna, Austria. +
+http://eox.at/[eox.at]
+|===
+
+include::amendment-history.adoc[]
+
+<<<

@@ -1,0 +1,20 @@
+
+= Introduction
+
+== Purpose and Scope
+
+This document represents the Software Requirements Specification (SRS) for the {component-name}. This document describes the functional and non functional requirements applicable. This document forms the basis against which the detailed design, implementation, unit and integration testing, and the verification are performed and outlined in the Software Verification and Validation Plan (SVVP) and Software Verification and Validation Report (SVVR).
+
+== Structure of the Document
+
+Section 2 - <<mainOverview>>::
+This section provides an overview of the {project} {component-name}
+
+Section 3 - <<mainRequirements>>::
+This section provides the software requirements for the {project} {component-name}
+
+include::03.reference-docs.adoc[leveloffset=+1]
+
+include::04.terminology.adoc[leveloffset=+1]
+
+include::05.glossary.adoc[leveloffset=+1]

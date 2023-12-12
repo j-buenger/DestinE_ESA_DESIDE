@@ -1,0 +1,20 @@
+= Verification criteria and acceptance
+
+Types of verifications performed:
+
+* Tests
+* Demonstration
+
+== Test
+
+Test Execution: The primary acceptance criteria for verification is that all tests, including unit tests, integration tests, and system tests, pass successfully without any critical failures or errors.
+
+Test Results: The verification process will consider the test results generated from the execution of the test suite. The results should indicate a high percentage of passed tests, demonstrating that the software system meets the expected functionality and behavior.
+
+Error Handling: The software system should exhibit appropriate error handling mechanisms. Verification will verify that error messages are displayed accurately, and the system recovers gracefully from errors without causing any data loss or instability.
+
+== Demonstration
+
+In addition to testing, demonstration will be conducted as part of the verification process. The demonstration aims to showcase the functionality, features, and capabilities of the software system in a real or simulated environment.
+
+By including a demonstration as part of the verification process, we aim to provide stakeholders with a tangible and visual representation of the software system's capabilities. The demonstration serves as an effective means to validate the software against the specified requirements and ensure that it meets the expectations of the end-users and stakeholders.
