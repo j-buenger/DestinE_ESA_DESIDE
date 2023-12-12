@@ -14,3 +14,4 @@ It is possible to participate in the DESIDE project if you are part of the polar
 
 # How to participate
 
+Feel free to create an issue on this repository to start the discussion.
