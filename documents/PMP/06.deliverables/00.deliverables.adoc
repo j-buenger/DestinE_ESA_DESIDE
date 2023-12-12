@@ -11,21 +11,21 @@ in the ITT and as guided by the Technical Officer.
 .Project Deliverables
 [cols="1,7,2,4"]
 |===
-| Code | Title | Work Package | Delivery
+| Code | Title                                       | Work Package | Delivery
 
-| D5.1 | Project Management Plan                     | KO+1, RR1, RR2, RR3, FR
-| D5.2 | Use Case Description                        | KO+1, RR1, RR2, RR3, FR
-| D5.3 | Use Case Application (software)             | KO+1, RR1, RR2, RR3, FR
-| D5.4 | User Validation Report                      | FR
-| D5.5 | Use Case Promotion Package                  | RR1, RR2, RR3, FR
-| D5.6 | Use Case Exploitation Roadmap               | FR
-| PR   | Progress Reports                            | Monthly
-| QU   | Updates                                     | Quarterly
-| SRS  | Software Requirement Specification          | KO+1, RR1, RR2, RR3, FR
-| SVVP | Software Verification and Validation Plan   | KO+1, RR1, RR2, RR3, FR
-| SVVR | Software Verification and Validation Report | RR1, RR2, RR3, FR
-| SRF  | Software Reuse File                         | RR1, RR2, RR3, FR
-| SRP  | Software Release Plan                       | KO+1, RR1, RR2, RR3, FR
-| FR   | Final Report                                | FR
-| CCD  | Contract Closure Documentation              | FR
+| D5.1 | Project Management Plan                     |              | KO+1, RR1, RR2, RR3, FR
+| D5.2 | Use Case Description                        |              | KO+1, RR1, RR2, RR3, FR
+| D5.3 | Use Case Application (software)             |              | KO+1, RR1, RR2, RR3, FR
+| D5.4 | User Validation Report                      |              | FR
+| D5.5 | Use Case Promotion Package                  |              | RR1, RR2, RR3, FR
+| D5.6 | Use Case Exploitation Roadmap               |              | FR
+| PR   | Progress Reports                            |              | Monthly
+| QU   | Updates                                     |              | Quarterly
+| SRS  | Software Requirement Specification          |              | KO+1, RR1, RR2, RR3, FR
+| SVVP | Software Verification and Validation Plan   |              | KO+1, RR1, RR2, RR3, FR
+| SVVR | Software Verification and Validation Report |              | RR1, RR2, RR3, FR
+| SRF  | Software Reuse File                         |              | RR1, RR2, RR3, FR
+| SRP  | Software Release Plan                       |              | KO+1, RR1, RR2, RR3, FR
+| FR   | Final Report                                |              | FR
+| CCD  | Contract Closure Documentation              |              | FR
 |===
