@@ -3,15 +3,20 @@
 
 == Purpose and Scope
 
-This document represents the Project Management Plan (PMP) for the {component-name} project. This document describes <TBD>
+This document represents the Project Management Plan (PMP) for the {project-name} project 8482 with ESA contract 4000140320/23/I-NS.
 
 == Structure of the Document
 
 Section 2 - <<mainOverview>>::
-This section provides an overview of the {project} {component-name}
+This section provides an overview of the {project-name}.
 
-Section 3 - <<mainDesign>>::
-<TBD>
+Section 3 - <<WorkDescription>>
+
+Section 4 - <<TeamOrganization>>
+
+Section 5 - <<Schedule>>
+
+Section 6 - <<Deliverables>>
 
 include::03.reference-docs.adoc[leveloffset=+1]
 

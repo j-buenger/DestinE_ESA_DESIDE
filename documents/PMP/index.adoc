@@ -2,14 +2,14 @@
 :author: PolarView Team
 :email: <TBD>
 :project: DESIDE
-:project-name: {project}
+:project-name: Destination Earth DESP Use Cases: DestinE Sea Ice Decision Enhancement (DESIDE)
 :component-name: DESIDE
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Project Management Plan
 :doc-num: D-XXX
-:revnumber: 0.1
-:revdate: 10/12/2023
+:revnumber: 1.0
+:revdate: 12/12/2023
 // :revremark:
 :category:
 :copyrightYear: 2023
@@ -46,6 +46,22 @@ include::01.introduction/00.introduction.adoc[]
 <<<
 
 include::02.overview/00.overview.adoc[]
+
+<<<
+
+include::03.work/00.work.adoc[]
+
+<<<
+
+include::04.team/00.team.adoc[]
+
+<<<
+
+include::05.schedule/00.schedule.adoc[]
+
+<<<
+
+include::06.deliverables/00.deliverables.adoc[]
 
 '''
 
