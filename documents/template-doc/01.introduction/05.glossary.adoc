@@ -20,6 +20,7 @@ The following acronyms and abbreviations have been used in this document.
 | KVP | Key-value Pair
 | M2M | Machine-to-machine
 | OGC | Open Geospatial Consortium
+| PMP | Project Management Plan
 | REST | Representational State Transfer
 | SDD | Software Design Document
 | SFTP | Secure File Transfer Protocol

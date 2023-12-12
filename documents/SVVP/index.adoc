@@ -4,8 +4,8 @@
 :project: DESIDE
 :project-name: {project}
 :component-name: DESIDE
-:component-github-name: https://github.com/EOX-A/DESIDE
-:component-github-pages: https://eox-a.github.io/DESIDE
+:component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
+:component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Software Verification and Validation Plan
 :doc-num: D-XXX
 :revnumber: 0.1

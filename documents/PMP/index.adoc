@@ -1,15 +1,15 @@
 :doctype: book
-:author: EOX Team
-:email: <office@eox.at>
+:author: PolarView Team
+:email: <TBD>
 :project: DESIDE
 :project-name: {project}
 :component-name: DESIDE
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
-:doc-title: Software Requirements Specification
+:doc-title: Project Management Plan
 :doc-num: D-XXX
 :revnumber: 0.1
-:revdate: 11/12/2023
+:revdate: 10/12/2023
 // :revremark:
 :category:
 :copyrightYear: 2023
@@ -46,10 +46,6 @@ include::01.introduction/00.introduction.adoc[]
 <<<
 
 include::02.overview/00.overview.adoc[]
-
-<<<
-
-include::03.requirements/00.requirements.adoc[]
 
 '''
 
