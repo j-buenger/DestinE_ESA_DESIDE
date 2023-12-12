@@ -1,4 +1,4 @@
-# Participation
+# Rule of Participation
 
 ### Welcome to the DESIDE GitHub Community!
 
