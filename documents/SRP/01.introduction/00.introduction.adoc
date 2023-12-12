@@ -1,0 +1,20 @@
+
+= Introduction
+
+== Purpose and Scope
+
+This document represents the <TBD> (<TBD>) for the {component-name} project. This document describes <TBD>
+
+== Structure of the Document
+
+Section 2 - <<mainOverview>>::
+This section provides an overview of the {project} {component-name}
+
+Section 3 - <<mainDesign>>::
+<TBD>
+
+include::03.reference-docs.adoc[leveloffset=+1]
+
+include::04.terminology.adoc[leveloffset=+1]
+
+include::05.glossary.adoc[leveloffset=+1]

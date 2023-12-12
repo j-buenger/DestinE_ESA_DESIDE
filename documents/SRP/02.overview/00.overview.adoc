@@ -1,0 +1,4 @@
+[[mainOverview]]
+= Overview
+
+This section provides an overview of the {project} {component-name}. It highlights ...

@@ -1,0 +1,45 @@
+
+= Glossary
+
+The following acronyms and abbreviations have been used in this document.
+
+[cols="1,6"]
+|===
+| Term | Definition
+
+| ADD | Architecture Design Document
+| AOI | Area of Interest
+| API | Application Programming Interface
+| COG | Cloud optimized GeoTiff
+| EO | Earth Observation
+| EOX | EOX IT Services GmbH
+| ESA | European Space Agency
+| FUSE | Filesystem in Userspace
+| ICD | Interface Control Document
+| JSON | JavaScript Object Notation
+| KVP | Key-value Pair
+| M2M | Machine-to-machine
+| OGC | Open Geospatial Consortium
+| PMP | Project Management Plan
+| REST | Representational State Transfer
+| SDD | Software Design Document
+| SFTP | Secure File Transfer Protocol
+| SRF | Software Reuse File
+| SRN | Software Release Note
+| SRP | Software Release Plan
+| SRS | Software Requirements Specification
+| SSH | Secure Shell
+| STAC | Spatio-Temporal Asset Catalog
+| SUM | Software User Manual
+| SVVP | Software Verification and Validation Plan
+| SVVR | Software Verification and Validation Report
+| TOI | Time of Interest
+| UMA | User-Managed Access
+| US | User Story
+| WCS | Web Coverage Service
+| WFS | Web Feature Service
+| WMS | Web Map Service
+| WMTS | Web Map Tile Service
+| WPS | Web Processing Service
+| WPS-T | Transactional Web Processing Service
+|===
