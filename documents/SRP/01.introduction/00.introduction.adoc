@@ -11,6 +11,9 @@ This document represents the Software Release Plan (SRP) for the {project-name} 
 Section 2 - <<mainOverview>>::
 This section provides an overview of the {project-name}.
 
+Section 3 - <<ReleasePlan>>::
+This section provides the actual Release Plan.
+
 include::03.reference-docs.adoc[leveloffset=+1]
 
 include::04.terminology.adoc[leveloffset=+1]
