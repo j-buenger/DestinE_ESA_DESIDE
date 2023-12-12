@@ -27,6 +27,7 @@
 :stylesheet: custom.css
 :icons: font
 :source-highlighter: coderay
+:xrefstyle: short
 // pdf
 :pdf-stylesdir: resources/themes
 :pdf-style: custom

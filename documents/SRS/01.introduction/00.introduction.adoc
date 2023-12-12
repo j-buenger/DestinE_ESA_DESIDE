@@ -3,12 +3,15 @@
 
 == Purpose and Scope
 
-This document represents the Software Requirements Specification (SRS) for the {component-name}. This document describes the functional and non functional requirements applicable. This document forms the basis against which the detailed design, implementation, unit and integration testing, and the verification are performed and outlined in the Software Verification and Validation Plan (SVVP) and Software Verification and Validation Report (SVVR).
+This document represents the Software Requirements Specification (SRS) for the {project-name} project 8482 with ESA contract 4000140320/23/I-NS.
+
+This document describes the functional and non functional requirements applicable. This document forms the basis against which the detailed design, implementation, unit and integration testing, and the verification are performed and outlined in the Software Verification and Validation Plan (SVVP) and Software Verification and Validation Report (SVVR).
 
 == Structure of the Document
+:xrefstyle: full
 
 Section 2 - <<mainOverview>>::
-This section provides an overview of the {project} {component-name}
+This section provides an overview of the {project-name}.
 
 Section 3 - <<mainRequirements>>::
 This section provides the software requirements for the {project} {component-name}

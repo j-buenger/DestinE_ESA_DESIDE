@@ -2,7 +2,7 @@
 :author: EOX Team
 :email: <office@eox.at>
 :project: DESIDE
-:project-name: {project}
+:project-name: Destination Earth DESP Use Cases: DestinE Sea Ice Decision Enhancement (DESIDE)
 :component-name: DESIDE
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
@@ -27,6 +27,7 @@
 :stylesheet: custom.css
 :icons: font
 :source-highlighter: coderay
+:xrefstyle: short
 // pdf
 :pdf-stylesdir: resources/themes
 :pdf-style: custom
