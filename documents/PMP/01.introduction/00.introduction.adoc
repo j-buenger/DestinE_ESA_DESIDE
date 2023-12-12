@@ -6,6 +6,7 @@
 This document represents the Project Management Plan (PMP) for the {project-name} project 8482 with ESA contract 4000140320/23/I-NS.
 
 == Structure of the Document
+:xrefstyle: full
 
 Section 2 - <<mainOverview>>::
 This section provides an overview of the {project-name}.
