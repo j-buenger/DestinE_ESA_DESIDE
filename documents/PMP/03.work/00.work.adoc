@@ -13,7 +13,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 
 [[WP1]]
 .Work Package 1
-[cols="3,5,2"]
+[cols="3a,5,2"]
 |===
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Project Management         | WP No: 1
@@ -29,7 +29,6 @@ The Work Packages and their constituent tasks are described in the tables below.
 * Coordinate submission of invoices and deliverables.
 * Ensure application of quality management standards.
 * Manage the relevant Use Case repository under the DestinE organization on GitHub, as applicable.
-
 | David Arthurs
 2+| *WP 1.2: Client Communications*
 
@@ -63,7 +62,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 
 [[WP2]]
 .Work Package 2
-[cols="3,5,2"]
+[cols="3a,5,2"]
 |===
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Agile Use Case Development and Demonstration | WP No: 2
@@ -114,7 +113,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 
 [[WP3]]
 .Work Package 3
-[cols="3,5,2"]
+[cols="3a,5,2"]
 |===
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Use Case Promotion | WP No: 3
@@ -140,7 +139,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 
 [[WP4]]
 .Work Package 4
-[cols="3,5,2"]
+[cols="3a,5,2"]
 |===
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Use Case Exploitation | WP No: 4
