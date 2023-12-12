@@ -1,5 +1,6 @@
 [[Schedule]]
 = Schedule
+:xrefstyle: short
 
 == Milestones
 
@@ -20,7 +21,6 @@ in the bar chart of <<ProjectSchedule>>.
 |===
 
 == Bar Chart
-:xrefstyle: short
 
 The project started on 10 November 2023 and will proceed for one year.
 <<ProjectSchedule>> shows the project schedule, including all proposed Work

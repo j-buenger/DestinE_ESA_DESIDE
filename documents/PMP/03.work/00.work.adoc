@@ -22,6 +22,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *WP Objectives*: Manage the activity and ensure all tasks are executed on time, on budget and on schedule according to the Project Management Plan. Contribute as necessary to all plans, processes, and tools for the execution and validation of the ESA-DEUC project.
 2+| Tasks | Responsible
 2+| *WP 1.1: Project Management and Control*
+
 * Develop and maintain the Project Management Plan
 * Coordinate Use Case development. Monitor progress, identify potential delays, and implement adequate mitigation measures.
 * Ensure required coordination between WPs. Integrate Use Case demonstrations and deliverables with outreach activities.
@@ -30,15 +31,18 @@ The Work Packages and their constituent tasks are described in the tables below.
 * Manage the relevant Use Case repository under the DestinE organization on GitHub, as applicable.
 | David Arthurs
 2+| *WP 1.2: Client Communications*
+
 * Interface with RHEA and provide support to periodical reporting.
 | David Arthurs
 2+| *WP 1.3: Project Deliverables*
+
 * Provide monthly and quarterly progress reports.
 * Provide minutes of meetings.
 * Confirm quality and completeness of all deliverables.
 * Ensure timely submission of all reports and deliverables.
 | David Arthurs
 2+| *WP 1.4: Project Meetings*
+
 * Provide support to progress and coordination meetings and provide minutes.
 * Show implementation progress based on agile development methods.
 * Hold project reviews: Kick-Off (KO), Release Reviews (RR1, RR2, RR3), and Final Review (FR).
@@ -67,23 +71,27 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *WP Objectives*: Using an agile methodology, plan, specify, design, test, review, and launch the DESIDE Use Case.
 2+| Tasks | Responsible
 2+| *WP 2.1: End-User Engagement*
+
 * Gather user requirements from previous studies and the End-User Representative Group.
 * Develop and validate user stories.
 * Test use of the application.
 * Identify and address user skill gaps that would hinder uptake of the Use Case.
 | Lasse Rabenstein
 2+| *WP 2.2: Software Development*
+
 * Through an Agile methodology, develop the Use Case software, including the following activities: planning; four epics of requirements definition, design, development, testing and review; and launch.
 * Engage end-users in the co-design of the solution at the requirements definition and testing/review stages.
 * Engage RHEA and ESA in the design and review stages.
 * Produce quarterly releases focused on 1) Polar TEP, 2) Polar Dashboard, 3) IcySea, 4) Overall DESIDE Use Case integration.
 | Stephan Meißl
 2+| *WP 2.3: Open-Source Software Management*
+
 * Monitor bug reports and requests for new features by the DestinE community.
 * Manage pull requests with community contribution.
 * Document new and updated requirements to the User Requirement Register.
 | Stephan Meißl
 2+| *WP 2.4: DESP Developer Liaison*
+
 * Access DESP services.
 * Validate use requirements against DESP capabilities.
 * Make the DESIDE Use Case suitable for integration in DESP as a third-party external service.
@@ -114,9 +122,11 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *WP Objectives*: Engage with users and promote awareness of the DestinE platform, applications and services.
 2+| Tasks |Responsible
 2+| *WP 3.1: Use Case Promotion Package*
+
 * Prepare the Use Case Promotion Package.
 | Lasse Rabenstein
 2+| *WP 3.2: DestinE Participation*
+
 * Provide quarterly content for the DestinE website.
 * Participate in workshops and events related to DestinE.
 * Contribute a module to the DestinE MOOC.
@@ -135,9 +145,10 @@ The Work Packages and their constituent tasks are described in the tables below.
 2+| *WP Title*: Use Case Exploitation | WP No: 4
 | Start Event: RR3 | Start Date: KO +9      | WP Leader: Lasse Rabenstein
 | End Event: FR    | End Date: KO+12 months | Level of Effort: 461 hours
-3+| *WP Objectives: Provide a roadmap for the optimal implementation and exploitation of the Use Case application throughout the development period and beyond.
+3+| *WP Objectives*: Provide a roadmap for the optimal implementation and exploitation of the Use Case application throughout the development period and beyond.
 2+|Tasks | Responsible
 2+|*WP 4.1: Use Case Exploitation Roadmap*
+
 * Develop a Use Case exploitation roadmap that:
   * Is a high-quality and user-friendly document,
   * Provides traceable and quantifiable impact metrics.

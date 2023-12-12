@@ -1,5 +1,6 @@
 [[TeamOrganization]]
 = Team Organization
+:xrefstyle: short
 
 Polar View will be prime contractor and responsible for the overall
 execution of the proposed activity. The team members and their roles are
