@@ -1,2 +1,63 @@
 [[TeamOrganization]]
 = Team Organization
+
+Polar View will be prime contractor and responsible for the overall
+execution of the proposed activity. The team members and their roles are
+as follows:
+
+-   Danish Meteorological Institute (DMI) – Coordination of decision
+    support information for Greenland waters (Baffin Bay, Labrador Sea,
+    Greenland Sea)
+
+-   Finnish Meteorological Institute (FMI) – Coordination of decision
+    support information for the Baltic Sea.
+
+-   Norwegian Meteorological Institute (MET Norway) – Coordination of
+    decision support information for the Norwegian Sea and Barents Sea.
+
+-   EOX – Lead for Software and responsible for Polar TEP and Polar
+    Dashboard platforms.
+
+-   Drift+Noise – Lead for End-users and responsible for the IcySea app
+    that provides decision information to ships.
+
+A critical aspect of the proposed work scope is the active and effective
+engagement of end-users concerned with polar and Baltic Sea operations.
+To this end, an end-user representative group has been established to
+provide advice to the technical team, articulate end-user information
+requirements, and review agile development output. The members of the
+end-user representative group are:
+
+-   International Ice Charting Working Group (IICWG)
+-   Finnish Transport Infrastructure Agency
+-   Ponant
+-   Alfred Wegener Institute
+-   Arctic Monitoring and Assessment Programme (AMAP)
+
+Polar View has assigned David Arthurs as the Project Manager to lead the
+proposed activity. The Project Manager will report to the Technical
+Officer assigned by RHEA on all aspects related to the planning and
+execution of the project. Where required, the Project Manager will
+interface with other contact points at RHEA and ESA. The Project Manager
+is supported by the Software and End-User Leads, Stephan Meißl and Lasse
+Rabenstein respectively. Each Lead will be responsible for all related
+tasks and deliverables and will interface as required with all task
+contributors. Figure 1 provides an overview of reporting lines and task
+responsibilities.
+
+Figure 1: Project Team and Reporting Lines TODO
+
+<<KeyPersonnelRoles>> shows the project team’s key personnel and their roles.
+
+[[KeyPersonnelRoles]]
+.Key Personnel Roles
+|===
+| Name             | Role
+
+| David Arthurs    | Project Manager
+| Till Rasmussen   | Liaison, DMI products and services
+| Marko Mäkynen    | Liaison, FMI products and services
+| Øystein Godøy    | Liaison, MET Norway products and services
+| Stephan Meißl    | Software lead
+| Lasse Rabenstein | End-Users lead
+|===
