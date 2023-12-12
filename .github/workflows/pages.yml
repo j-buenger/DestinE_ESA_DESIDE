@@ -41,8 +41,8 @@ jobs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: documents/output
-        path: './output'
+        name: output
+        path: './documents/output'
 
   deploy:
     needs: build
@@ -54,13 +54,13 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: output
-          path: './output'
+          path: './documents/output'
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: './output'
+          path: './documents/output'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
