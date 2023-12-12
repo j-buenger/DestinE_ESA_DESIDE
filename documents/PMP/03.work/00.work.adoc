@@ -29,6 +29,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 * Coordinate submission of invoices and deliverables.
 * Ensure application of quality management standards.
 * Manage the relevant Use Case repository under the DestinE organization on GitHub, as applicable.
+
 | David Arthurs
 2+| *WP 1.2: Client Communications*
 

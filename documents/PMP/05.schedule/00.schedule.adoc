@@ -1,6 +1,5 @@
 [[Schedule]]
 = Schedule
-:xrefstyle: short
 
 == Milestones
 

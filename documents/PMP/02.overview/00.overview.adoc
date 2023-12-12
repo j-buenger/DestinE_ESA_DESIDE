@@ -1,6 +1,5 @@
 [[mainOverview]]
 = Overview
-:xrefstyle: short
 
 Polar View Earth Observation Limited is working in collaboration with
 EOX IT Services, Drift+Noise Polar Services, the Danish Meteorological
