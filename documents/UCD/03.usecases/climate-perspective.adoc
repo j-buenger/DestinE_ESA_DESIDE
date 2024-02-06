@@ -1,0 +1,27 @@
+## Climate perspective
+
+[[amapusecase]]
+.Use Case description for AMAP.
+[cols=">1h,4"]
+|===
+|Name
+| FIXME 
+
+|Goal
+a| FIXME
+
+|Actors
+a| FIXME
+
+|Pre-conditions
+a|FIXME
+
+|Post-conditions
+a| FIXME
+
+|Normal flow
+a| FIXME
+
+|Notes and issues
+a| FIXME
+|===
