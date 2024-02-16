@@ -1,0 +1,26 @@
+Participants	
+•	RHEA
+	o	Jolanda Patruno
+	o	Claudia Vitolo
+•	Polar View
+	o	David Arthurs
+•	EOX
+	o	Tyna Dolezalova
+•	Drift+Noise
+	o	Lasse Rabenstein
+
+Discussion
+	•	David outlined the status of the project:
+		o	The contract has been signed, but there are two outstanding IP issues: 1. EOX is an Austrian company and therefore cannot waive “all their other moral rights”.  2. Drift+Noise accepts that the European Union will own the Foreground IP, but not that they will have the right to use and modify the Background IP (specifically, the IcySea app).
+		o	The first deliverables will be available on February 20 in the project’s GitHub account.
+		o	The DESIDE team acknowledges RHEA’s request for information on data requirements and benefits to be contained in the deliverables.
+		o	The DESIDE team has begun engaging with end-users to determine their information requirements.  This has been done for AMAP on climate change indicators.
+		o	A first iteration of the Polar Dashboard is available at polardashboard.org.
+	•	The request by the DESIDE team for RCM data was discussed.  In the long-term, there is a possibility that the data could be stored in the data lake.  RHEA will provide instructions on how the DESIDE team can make a formal request to EUMETSAT.  In the short-term, obtaining extra resources for storage on OVH is possible.  The DESIDE team will provide an estimate of the requirements.
+	•	There will be a public opening of the DESP platform in the first weeks of June at the LUMI site.  ESA requests that publicity materials be provided for DESIDE.
+Actions
+	•	The DESIDE team will provide an estimate of the storage needed for RCM data.
+	•	The DESIDE team will provide publicity material for the public opening of the platform.
+	•	The DESIDE team will contact Joran Hoffman for more information about the Digital Twin data.
+	•	RHEA will provide information on how to make a formal request to EUMETSAT for RCM data to be added to the data lake.
+	•	The next meeting has been scheduled for March 15, 2024, at 13:00.
