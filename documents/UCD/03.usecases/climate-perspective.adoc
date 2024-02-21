@@ -1,0 +1,55 @@
+## Climate perspective
+
+[[amapusecase]]
+.Use Case description for AMAP.
+[cols=">1h,4"]
+|===
+|Name
+| Pan-Arctic and regional sea ice climate indicators
+
+|Last updated
+a| 2024-02-14
+
+|Last updated by
+a| Øystein Godøy
+
+|Goal
+a| To provide an integrated dataset combining sea ice climate indicators based on observations (e.g. EUMETSAT Ocean and Sea Ice SAF) and climate model projections. 
+These indicators should be available Pan Arctic as well as regional indicators for specific areas.
+Accompanying this will be a web service allowing users to interactively play with various regions and projections.
+The combination of observed and projected indicators will help establish trust in projections.
+This web service can be integrated in AMAP defined dashboards which they are developing.
+
+|Actors
+a| 
+* AMAP secretariat (Pan-Arctic and regional levels)
+* Norwegian Directorate for Environment (is interested, but not committed through an agreement, regional level in European part of the Arctic)
+* DESIDE sea ice climate experts
+* DESIDE service development expert
+
+|Pre-conditions
+a|
+. EUMETSAT Sea Ice SAF Sea Ice Climate Products (https://osi-saf.eumetsat.int/products/sea-ice-products OSI-430-a, OSI-450-a, OSI-455, OSI-458) available in DEDL/DESP.
+. EUMETSAT Ocean and Sea Ice SAF Sea Ice Index (https://osi-saf.eumetsat.int/products/sea-ice-products OSI-420) available in DEDL/DESP.
+. Selected IPCC CMIP model sea ice output is available in DEDL/DESP for processing into indicators.
+. MET sea ice indicator visualisation tool is available (e.g. https://cryo.met.no/en/sea-ice-index-monthly, daily and monthly setup exist today) for integration in dashboard of choice of the stakeholder.
+
+|Post-conditions
+a| 
+. An integrated/combined dataset of sea ice climate indicators based on observations and model simulations.
+. The above mentioned dataset available in the sea ice indicator tool mentioned above, available for integration in user defined dashboards.
+
+|Normal flow
+a| 
+. The stakeholder community through AMAP identifies an area of interest.
+. The visualisation tool integrated in the AMAP defined dashboard is launched.
+. Within the visualisation tool the user can compare historical (based on observations) sea ice indicators with future projections (based on carefully selected climate model scenarios) in order to establish a trust in future projections based on historical performance.
+
+|Notes and issues
+a| 
+. Need to define whether sea ice drift should be part of the use case.
+. This use case is based on previous elaborations through the SUDARCO project focusing on trustworthy climate projections for 2050 in the Gakkel ridge area in the Arctic Ocean.
+. The sea ice climate experts has to define which climate models that are trustworthy concerning sea ice projections in the areas of interest.
+. Ask AMAP whether they want to use dashboards developed by DESIDE.
+. Ask AMAP which regional indicators they want.
+|===

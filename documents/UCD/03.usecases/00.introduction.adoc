@@ -1,0 +1,9 @@
+[[use_cases]]
+# Use cases
+
+## Introduction
+
+Use cases are described in a programatically approach focusing on input and output with the process in between described.
+The main focus is on the stakeholder usage and requirements.
+
+include::climate-perspective.adoc[]
