@@ -1,0 +1,69 @@
+## Ships in ice
+
+[[amapusecase]]
+.Use Case description for AWI, Ponant and others.
+[cols=">1h,4"]
+|===
+|Name
+| Use case: Ships in ice
+
+|Last updated
+a| 2024-03-05
+
+|Last updated by
+a| Jakob Buenger
+
+|Goal
+a| Provide navigation-relevant, high temporal and spatial resolution sea ice information products to ice going ships. The data needs to be delivered in an easy-to-use user-friendly way which provides interpretation help and allows for easy decision-making even without expert sea ice knowledge. Due to the dynamic nature of moving sea ice, forecasts of the variable conditions are oftentimes mission-critical as well. 
+Account for user-specific ice information needs:
+* Research ship data support: 
+- for long transits (strategic planning)
+- very short term tactical navigation to fulfill research goals 
+- high update frequency
+* Expedition Cruise ship data support: 
+- for long transits
+- tactical planning
+- data handling as easy as possible 
+  (crews with limited scientific background)
+
+|Actors
+a| 
+* Alfred Wegener Institute Helmholtz Center for Polar and Marine Research (Research Institute operating the Icebreaker Polarstern)
+* Ponant (Expedition Cruise Operator)
+* Various other partners of Drift+Noise that haven’t been mentioned in the proposal specifically
+* DESIDE software development experts
+* DESIDE ice consultant (Drift+Noise)
+
+|Pre-conditions
+a| The following data sets need to be available via the DESP platform:
+- RADARSAT Constellation Mission (RCM) SAR imagery
+- Sentinel-1 (ESA) SAR imagery
+- Sea ice drift forecast data (TOPAZ5, neXtSIM)
+- ICON wind forecast data 
+- Sea ice charts from all the national ice services
+
+
+|Post-conditions
+a| 
+. Added value data sets (morphed images)
+. Create intermediate data sets (drift forecast trajectories) 
+. Validate morphed images based on ship data/feedback
+. Include above-mentioned data set into the various DESIDE platforms e.g. PolarTEP
+
+
+|Normal flow
+a| 
+. Provide users with preliminary access to the various DESIDE platforms
+. Collect their feedback
+. Implement feedback
+
+
+|Notes and issues
+a| 
+* Implementation into IcySea (contract issue)
+* Define areas of interest:
+- AWI: Arctic-wide
+- Ponant: special interest in data for the journey to the North Pole
+* Connect local ship data with image processor
+
+|===
